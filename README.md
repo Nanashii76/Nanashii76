@@ -54,4 +54,4 @@
   
 </div>
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Nanashii76/Nanashii76/blob/output/github-contribution-grid-snake.svg)
