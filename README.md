@@ -1,6 +1,6 @@
 ### Hi There, I'm Paulo!
 
-  - Actually I'm a Student of software engineering At Universidade de Brasília (UnB)
+  - Actually I'm a Student of software engineering at Universidade of Brasília (UnB)
   - I like solve puzzles/riddles and mathematical problems.
   
   <!--- 
