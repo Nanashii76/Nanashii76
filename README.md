@@ -2,7 +2,6 @@
 
   - Actually I'm a Student of software engineering at Universidade of Brasília (UnB)
   - I like solve puzzles/riddles and mathematical problems.
-  - Profile art: <a href="https://twitter.com/nuavic" target="_blank">Click me</a>
   
   <!--- 
   
