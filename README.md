@@ -1,7 +1,7 @@
 ### Hi There, I'm Paulo!
   <img align="right" alt="hero" height="100" width="100" src="https://i.pinimg.com/originals/75/33/ef/7533efc41868dd51bfd202bd4eb83826.gif" />
   
-  - Actually I'm a Student of software engineering at UnB
+  - Actually I'm a Student of software engineering at UnB.
   - I like solve puzzles/riddles and mathematical problems.
   - I'm currently studying to become a game development and learning cybersecurity.
   
