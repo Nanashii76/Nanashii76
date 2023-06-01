@@ -20,19 +20,19 @@
 
 <h3> Languages and Tools I Most Use </h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="Cpp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
-  <img align="center" alt="eclipse" height="30" width="30" src="https://www.nicepng.com/png/full/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png">
-  <img align="center" alt="ps" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png">
+  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="Cpp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
+  <img align="center" alt="eclipse" height="40" width="40" src="https://www.nicepng.com/png/full/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png">
+  <img align="center" alt="ps" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png">
 </div>
 <br>
 <h3> Languages and Tools I'm Learning </h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="intellij" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
   <img align="center" alt="unity" height="40" width="40" src="https://companieslogo.com/img/orig/U-ea48bc1d.png?t=1634728034">
-  <img align="center" alt="blender" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png">
+  <img align="center" alt="blender" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png">
 </div>
 <br>
 <br>
