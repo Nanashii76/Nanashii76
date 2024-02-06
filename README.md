@@ -1,6 +1,5 @@
 ### Hi There, I'm Paulo Henrique Lamounier!
-  <iframe src="https://giphy.com/embed/kjns6N6bQEKaDVSd7q" width="420" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/stickers/dance-penguin-pengu-kjns6N6bQEKaDVSd7q"></a>
-  <img align="right" alt="hero" height="100" width="100" src="https://giphy.com/stickers/dance-penguin-pengu-kjns6N6bQEKaDVSd7q" />
+  <img align="right" alt="hero" height="100" width="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNqbHo5dWZjbDkxand3Mndkc292eHRpNmJ2a2g1aG01bG40MWFsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kjns6N6bQEKaDVSd7q/giphy.gif" />
   
   - Actually I'm a Student of software engineering at UnB.
   - I like solve puzzles/riddles and mathematical problems.
