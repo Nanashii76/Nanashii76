@@ -1,5 +1,5 @@
 ### Hi There, I'm Paulo Henrique Lamounier!
-  <img align="right" alt="hero" height="100" width="100" src="https://i.pinimg.com/originals/75/33/ef/7533efc41868dd51bfd202bd4eb83826.gif" />
+  <img align="right" alt="hero" height="100" width="100" src="https://giphy.com/stickers/dance-penguin-pengu-kjns6N6bQEKaDVSd7q" />
   
   - Actually I'm a Student of software engineering at UnB.
   - I like solve puzzles/riddles and mathematical problems.
