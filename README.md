@@ -1,4 +1,4 @@
-[![MasterHead](https://i2.wp.com/coolmaterial.com/wp-content/uploads/2017/07/math-gifs.gif)](https://sheet.assurances.gov.gh/math/math-gif-animated.html)
+[![MasterHead](https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif)](https://sheet.assurances.gov.gh/math/math-gif-animated.html)
 
 <h1 align="center">Hi 👋, I'm Paulo Henrique L. Dantas</h1>
 
