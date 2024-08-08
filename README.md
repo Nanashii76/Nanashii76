@@ -4,11 +4,19 @@
 
 <h1 align="center">Hi 👋, I'm Paulo Henrique L. Dantas</h1>
 
-- 📚 I’m currently studying on **UnB (Universidade de Brasília)**
-
-- 🌱 I’m currently learning **Next and Nest**
-
-- 💬 Ask me about **Riddles and competitive programming**
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div style="flex: 1;">
+    <h2>About Me</h2>
+    <ul>
+      <li>📚 I’m currently studying on <strong>UnB (Universidade de Brasília)</strong></li>
+      <li>🌱 I’m currently learning <strong>Next and Nest</strong></li>
+      <li>💬 Ask me about <strong>Riddles and competitive programming</strong></li>
+    </ul>
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="https://onlinegiftools.com/images/examples-onlinegiftools/totoro-transparent.gif" alt="Totoro" style="max-width: 100%; height: auto;">
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
