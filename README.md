@@ -4,8 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Paulo Henrique L. Dantas</h1>
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 0 auto; max-width: 800px;">
   <div style="flex: 1;">
+    <h2>About Me</h2>
     <ul>
       <li>📚 I’m currently studying on <strong>UnB (Universidade de Brasília)</strong></li>
       <li>🌱 I’m currently learning <strong>Next and Nest</strong></li>
