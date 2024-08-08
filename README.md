@@ -4,8 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Paulo Henrique L. Dantas</h1>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin: 0 auto; max-width: 800px;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: flex-start; gap: 20px; justify-content: center;">
+  <div>
     <h2>About Me</h2>
     <ul>
       <li>📚 I’m currently studying on <strong>UnB (Universidade de Brasília)</strong></li>
@@ -13,7 +13,7 @@
       <li>💬 Ask me about <strong>Riddles and competitive programming</strong></li>
     </ul>
   </div>
-  <div style="flex: 0 0 auto;">
+  <div>
     <img src="https://onlinegiftools.com/images/examples-onlinegiftools/totoro-transparent.gif" alt="Totoro" style="width: 150px; height: auto;">
   </div>
 </div>
