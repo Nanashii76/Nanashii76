@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://0xhriday.medium.com/what-is-it-like-being-a-programmer-6851367138a6">
-    <img src="https://miro.medium.com/v2/resize:fit:1280/1*ubCR6WyFNthQVQ9D4AIO9g.gif" alt="MasterHead" style="width: 100%; height: auto;"/>
-  </a>
-</p>
+[![MasterHead](https://i2.wp.com/coolmaterial.com/wp-content/uploads/2017/07/math-gifs.gif)](https://sheet.assurances.gov.gh/math/math-gif-animated.html)
+
 <h1 align="center">Hi 👋, I'm Paulo Henrique L. Dantas</h1>
 
 - 📚 I’m currently studying on **UnB (Universidade de Brasília)**
