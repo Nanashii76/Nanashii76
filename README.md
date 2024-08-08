@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Henrique L. Dantas</h1>
 
 <!-- Container for the GIF and text -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- GIF -->
   <div>
     <img src="https://onlinegiftools.com/images/examples-onlinegiftools/totoro-transparent.gif" alt="Totoro" style="width: 150px; height: auto;">
