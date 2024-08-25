@@ -21,7 +21,7 @@
 <h3 align="left"> I'know / learning </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,git,html,java,js,linux,nestjs,nodejs,ocaml,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,git,html,js,linux,nodejs,vscode" />
   </a>
 </p>
 
