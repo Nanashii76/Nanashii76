@@ -11,13 +11,6 @@
 
 ---
 
-<center>
-<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanashii76&hide_progress=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanashii76&show_icons=true" />
-</picture>
-
----
-
 <h3 align="left"> I'know / learning </h3>
 <table>
   <tr>
@@ -35,6 +28,13 @@
         <img align="center"src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></td>
     </tr>
  </table>
+
+---
+
+<center>
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanashii76&hide_progress=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanashii76&show_icons=true" />
+</picture>
 
 ---
 
