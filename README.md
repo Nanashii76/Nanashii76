@@ -1,3 +1,4 @@
+<center>
 <h3 align="center">Hi There, I'm Paulo Henrique Lamounier!</h3>
 
   - Actually I'm a Student of software engineering at UnB.
@@ -28,11 +29,11 @@
 
 ---
 
-<center>
 <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanashii76&hide_progress=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanashii76&show_icons=true" />
 </picture>
 
+</center>
 ---
 
 <div align="left"> 
