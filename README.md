@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif" alt="MasterHead" style="width: 100%; height: auto;">
-</p>
-
 <h3 align="center">Hi There, I'm Paulo Henrique Lamounier!</h3>
-  <img align="right" alt="hero" height="100" width="100" src="https://onlinegiftools.com/images/examples-onlinegiftools/totoro-transparent.gif" />
 
   - Actually I'm a Student of software engineering at UnB.
   - I like solve puzzles/riddles and mathematical problems.
