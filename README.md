@@ -1,8 +1,7 @@
 
 <center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D9F758&width=435&lines=Hi+There%2C+I'm+Paulo+Henrique+Lamounier!)](https://git.io/typing-svg)
-
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D9F758&width=435&lines=Hi+There%2C+I'm+Paulo+Henrique+Lamounier!" alt="Typing SVG" /></a> </h3>
 
   - Actually I'm a Student of software engineering at UnB.
   - I like solve puzzles/riddles and mathematical problems.
