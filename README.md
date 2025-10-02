@@ -9,23 +9,25 @@
 
 ---
 
-<h3 align="left"> I'know / learning </h3>
+<h3 align="left">I know / learning</h3>
 <table>
   <tr>
     <td><img align="center" src="https://i.pinimg.com/originals/16/96/47/16964782ad7ef5e3f4f4205736cdaff9.gif" width="100%" height="100%"></td>
     <td><b>Languages</b><br>
-        <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-        <img align="center" src="https://img.shields.io/badge/python-%2300579D.svg?style=for-the-badge&logo=python&logoColor=white">
-        <br><b>Frameworks</b><br>
-        <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-        <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-        <img align="center" src="https://img.shields.io/badge/fastapi-%23ffffff.svg?style=for-the-badge&logo=fastapi&logoColor=green">
-        <br><b>Tools</b><br>
-        <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-        <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-        <img align="center" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
-        <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></td>
+      <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+      <img align="center" src="https://img.shields.io/badge/python-%2300579D.svg?style=for-the-badge&logo=python&logoColor=white">
+      <br><b>Frameworks</b><br>
+      <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+      <img align="center" src="https://img.shields.io/badge/fastapi-%23ffffff.svg?style=for-the-badge&logo=fastapi&logoColor=green">
+      <br><b>Tools</b><br>
+      <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+      <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+      <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></td>
   </tr>
 </table>
 
