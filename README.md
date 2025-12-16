@@ -12,7 +12,7 @@
 <h3 align="left">I know / learning</h3>
 <table>
   <tr>
-    <td><img align="center" src="https://i.pinimg.com/originals/16/96/47/16964782ad7ef5e3f4f4205736cdaff9.gif" width="100%" height="100%"></td>
+    <td><img align="center" src="https://i.pinimg.com/originals/08/29/46/082946e679b10d07b56eca9ba37adb34.gif" width="100%" height="100%"></td>
     <td><b>Languages</b><br>
       <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
