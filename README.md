@@ -38,8 +38,8 @@
 
 ---
 
-<source srcset="https://github.readme-stats.vercel.app/api/top-langs/?username=Nanashii76&hide_progress=true" />
-<img align="center" src="https://github.readme-stats.vercel.app/api?username=Nanashii76&show_icons=true" />
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanashii76&hide_progress=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanashii76&show_icons=true" />
 </picture>
 
 ---
