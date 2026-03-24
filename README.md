@@ -1,5 +1,3 @@
-<center>
-
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D9F758&width=435&lines=Hi+There%2C+I'm+Paulo+Henrique+L." alt="Typing SVG" /></a> </h3>
 
   - Software Engineering student at University of Brasília (UnB).
@@ -48,4 +46,3 @@
   <a href = "mailto:pauloamino76@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-henrique-lamounier-244a90200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-</center>
