@@ -10,7 +10,7 @@
 <h3 align="left">Tech Stack & Tools</h3>
 <table>
   <tr>
-    <td><img align="center" src="https://i.giphy.com/ua7vVw9awZKWwLSYpW.webp" width="100%" height="100%"></td>
+    <td><img align="center" src="[https://i.giphy.com/ua7vVw9awZKWwLSYpW.webp](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNicWk1eHU5ZHJvYTA1NWM1eGhiZHk1NzlzaXRtYzg1andoM2ZsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GsJO3Yy0DCvEk/giphy.gif)" width="100%" height="100%"></td>
     <td>
       <b>Languages</b><br>
       <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
